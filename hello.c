@@ -1,3 +1,3 @@
-#include<stdio.h>
-Void Main()
+# include <stdio.h>
+Void main ()
 print("This is my hello...World/n")
